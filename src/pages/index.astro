@@ -13,7 +13,7 @@ import { SOCIALS } from "@config";
 
 const posts = await getCollection("blog");
 
-const sortedPosts = getSortedPosts(posts);
+const sortedPosts = await getSortedPosts(posts);
 const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
 
 const socialCount = SOCIALS.filter(social => social.active).length;
@@ -24,8 +24,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   <main id="main-content">
     <section id="hero">
       <h1 class="mr-2">Hi, I'm Michał Paczków</h1>
-      <a
-        target="_blank"
+      <a target="_blank"
         href="/rss.xml"
         class="rss-link"
         aria-label="rss feed"
@@ -48,13 +47,13 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       </p><br />
       <p>
         I'm not just about coding – I'm all about sharing what I know. Software
-        Engineering, how to build things, cool and efficient ways to learn /
-        knowledge management (using <a
+        Engineering, how to build fullstack things, cool and efficient ways to learn /
+        knowledge management in <a
           class="basic-link"
           href="https://twitter.com/obsdmd"
-          aria-label="obsidian twitter"
-          title="Obsidian Twitter">@obsdmd</a
-        >). <br />
+          aria-label="obsidian.md"
+          title="Obsidian">obsidian.md</a
+        > 💜 <br />
       </p>
       {
         // only display if at least one social link is enabled
