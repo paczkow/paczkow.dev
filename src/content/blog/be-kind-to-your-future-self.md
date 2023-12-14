@@ -5,7 +5,6 @@ title: How to never forget any information? Be kind to your future self.
 postSlug: be-kind-to-your-future-self
 description: As a developer, you should focus on solving problems, not storing information. Our brains aren't warehouses, delegate storing to your Second Brain
 featured: true
-ogImage: https://github.com/satnaing/astro-paper/assets/53733092/1ef0cf03-8137-4d67-ac81-84a032119e3a
 tags:
   - knowledge-management
   - obsidian
@@ -66,11 +65,7 @@ How can I reach the note in my system?
 - Start from broader topics like `Graph`, `Data Structure` and go down
 - Start from related topics like `Kruksal Algorithm`, `Spanning Tree`
 
-
 ![blog-02](https://github.com/paczkow/paczkow.dev/assets/16765560/ec8d6575-6882-49e9-b717-e852eeeb2e28)
-
-
-
 
 Thanks to graph **I don’t have to remember the exact location of this note** and can find it more easily and faster by related contexts.
 
