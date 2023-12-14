@@ -67,8 +67,8 @@ How can I reach the note in my system?
 - Start from related topics like `Kruksal Algorithm`, `Spanning Tree`
 
 
+![blog-02](https://github.com/paczkow/paczkow.dev/assets/16765560/ec8d6575-6882-49e9-b717-e852eeeb2e28)
 
-https://github.com/paczkow/paczkow.dev/assets/16765560/38979b8b-140d-41f8-9b6f-a408072785aa
 
 
 
