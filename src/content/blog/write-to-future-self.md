@@ -1,8 +1,8 @@
 ---
 author: paczkow
 pubDatetime: 2023-12-15
-title: How to never forget any information? Be kind to your future self.
-postSlug: be-kind-to-your-future-self
+title: How to never forget any information? Write to future self.
+postSlug: write-to-future-self
 description: As a developer, you should focus on solving problems, not storing information. Our brains aren't warehouses, delegate storing to your Second Brain
 featured: true
 tags:
@@ -10,7 +10,7 @@ tags:
   - obsidian
 ---
 
-# How to never forget any information? Be kind to your future self.
+# How to never forget any information? Write to future self.
 
 In the world of coding, where things move fast and brains buzz with ideas, there's a big fib we often tell ourselves: _"I'll remember it"_.
 
