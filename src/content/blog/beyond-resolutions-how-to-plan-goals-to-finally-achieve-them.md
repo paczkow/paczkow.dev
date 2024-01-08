@@ -3,7 +3,7 @@ author: paczkow
 pubDatetime: 2024-01-01
 title: "Beyond Resolutions - How to plan goals to (finally) achieve them?"
 postSlug: beyond-resolutions-how-to-plan-goals-to-finally-achieve-them
-description: "Planning goals is hard, we see it each year when people fail with Resolution. However, it is possible to plan goals effectively and achieve them. The key lies in being crystal clear about the time frame and scope."
+description: "Planning goals is hard, we see it each year when people fail with New Year's resolutions. However, it is possible to plan goals effectively and achieve them. The key lies in being crystal clear about the time frame and scope."
 featured: true
 tags:
   - planning
@@ -14,22 +14,22 @@ tags:
 
 Planning and executing long-term goals is hard.
 
-This is evident in the case of New Year’s resolutions when 99% of people fail. Many individuals no longer take resolutions seriously as a result of previous letdowns.
+We can see how people fail to stick to their New Year's resolutions. Many no longer take resolutions seriously as a result of previous letdowns.
 
 Why is it so difficult to achieve long-term goals?
 
-I see two main issues:
+I see 2 main issues:
 
 - **Lack of urgency:** We tend to reserve too much time on these goals, leading to a lack of urgency. As a result, we often abandon them after a few weeks or, at best, months.
 - **Lack of clarity:** Vague goals make it hard to know what to do and track progress. The lack of clarity causes a loss of motivation. This leads to abandoning goals again.
 
-Fixing these issues isn't difficult. We need to work in shorter periods and set concrete goals. In this article, I will share my approach that has helped me achieve 90% of my yearly goals.
+Fixing these issues isn't difficult. We need to work in **shorter periods and set more concrete goals**. In this article, I will share my approach that has helped me achieve 90% of my yearly goals.
 
 ## Step 1: Power of Short Periods
 
-Yearly goals are often difficult to achieve because there is too much time to realize them. We can observe this pattern in many companies.
+Yearly goals are often difficult to achieve because there is...too much time to realize them. We can observe this pattern in many companies.
 
-For 9 out of 12 months, there seems to be "enough time to achieve goals." This results in a relaxed atmosphere and a lack of urgency. Yet, as the year-end approaches and deadlines loom, the intensity suddenly increases. People work at full throttle to meet impending deadlines.
+For 9 out of 12 months, there seems to be "enough time to achieve goals." This results in a relaxed atmosphere and a lack of urgency. Yet, as the year-end approaches and deadlines loom, the intensity suddenly increases. People work at full to meet impending deadlines.
 
 ![Deadline is Coming](https://media1.tenor.com/m/hgBGSTgt8qsAAAAC/work-stressed.gif)
 
@@ -37,17 +37,17 @@ For 9 out of 12 months, there seems to be "enough time to achieve goals." This r
 
 Our brains tend to equate urgency with importance. Think about the last-minute rush to file tax documents. Pay bills. Or take advantage of a limited-time promotion.
 
-That is a problem for long-term goals, they are not urgent. To make your important goals feel urgent, consider setting closer deadlines. However, it is essential to strike a balance between urgency and excessive pressure.
+That is a problem of long-term goals, they are not urgent. To make your important goals feel urgent, consider setting closer deadlines. However, it is essential to strike a balance between urgency and excessive pressure.
 
-**For beginners, a reasonable choice is to work towards a 12-week deadline.**
+**Based on my experience a reasonable choice is to work towards a 12-week deadline.** (I recommend the "12 Week Year" book).
 
-This timeframe allows you to perceive the deadline on the horizon, yet prevents becoming overwhelmed. When setting ambitious goals for 12 weeks, each week becomes crucial. Skipping 4-5 weeks would hinder your progress towards achieving the goal.
+This timeframe allows you to see the deadline on the horizon, yet prevents becoming overwhelmed. When setting ambitious goals for 12 weeks, each week becomes crucial. Skipping 4-5 weeks makes it impossible to achieve the goal.
 
 ### Fresh start (at least) 4x more
 
 Can you recall the feeling of starting a new year? 😌
 
-It's a fresh start, free from any unfulfilled commitments. You're motivated to work and achieve the fresh and significant goals you've set.
+It's a fresh start, free from any unfulfilled commitments. I love it! I'm motivated to work and achieve the fresh and significant goals I've set.
 
 When you switch to quarterly planning, you can experience this feeling at least 4 times a year. You should begin each period with a clean slate, resetting your commitments.
 
@@ -65,7 +65,7 @@ Commit to doing it for 3 months. This timeframe should be enough to determine if
 
 Progress is one of the best motivators when it comes to accomplishing tasks (ask people at the gym).
 
-Yet, if our goals are vague, it can be difficult to track our progress. Clarity is crucial for noticing progress. Without it, we lack direction and motivation and finally abandon our goals.
+Yet, if our goals are vague, it can be difficult to track our progress. **Clarity is crucial for noticing progress.** Without it, we lack direction and motivation and finally abandon our goals.
 
 The best solution is to establish specific, measurable goals - S.M.A.R.T Goals.
 
@@ -83,9 +83,9 @@ SMART goals have one tricky aspect: converting qualitative data into quantitativ
 
 Take, for example, "Being an expert in JavaScript".
 
-What does it mean to be an expert? It's a subjective evaluation that depends on the environment, not on you. Labeling yourself as an expert holds no value.
+What does it mean to be an expert? It's a subjective opinion that depends on the environment, not on you. Labeling yourself as an expert holds no value.
 
-So, how can we convert this goal into measurable objectives? Consider indicators like receiving invitations to conferences or podcasts. Another indicator is tracking the number of readers for your posts.
+So, how can we convert this goal into something we can measure? Consider indicators like receiving invitations to conferences or podcasts. Another indicator is tracking the number of readers for your posts.
 
 You need to find **tangible outcomes** that can help gauge your progress effectively.
 
@@ -97,6 +97,7 @@ Once you have created your SMART goals, it's time to break them down into action
 
 Example:
 
+Resolution → "I want to be in shape!"
 SMART Goal → “Lose 5 kg in 3 months”
 Actions:
 
@@ -122,7 +123,7 @@ We go through 2 examples to see the process in practice.
 
 ### “I want to be in shape”
 
-What’s exactly meant for you? How can we transform it into something S.M.A.R.T?
+What’s exactly meant for you? How can we transform it into S.M.A.R.T?
 
 - Is it a weight?
 - Time for running 5km?
@@ -148,7 +149,7 @@ It’s time to establish daily actions. What are the most optimal ways to reach 
 - “Do running training X times a week in following days: A / B / C”
 - “Eat at max X kcal every day. I add calories to an app before eating.”
 
-Now you just map your action into tasks and start doing! Good luck.
+Now you just map your action into tasks and start doing.
 
 ### “I want to learn X”
 
@@ -162,19 +163,19 @@ Ask yourself the following questions:
 - Why do you need to learn this skill?
 - Is it for personal interest or do you want to pursue a career change?
 
-Furthermore, consider what it means for you to learn this skill. Can you explain it? Can you apply it? Remember you want to avoid ambiguity to be able to track and see progress and keep motivated.
+Furthermore, consider what it means for you to learn this skill. Can you explain it? Can you apply it? **You want to avoid ambiguity to be able to track and see progress and keep motivated.**
 
-If you're completely new to the topic, there are two effective ways to gather list of topics:
+If you're completely new, there are 2 effective ways to gather list of topics:
 
 1. Find a mentor or someone who is already in the position you aspire to be in. Seek their guidance on the path to take and the essential skills to start with. This can save you a significant amount of time and effort.
 2. Explore the table of contents of popular courses related to the area you want to learn. Take note of the most frequently covered topics. This list will serve as a solid starting point for your learning journey.
 
-When gathering requirements, it's time to transform them into SMART Goals.
+When you gathered requirements, it's time to transform them into SMART Goals.
 
 - Master topics from list X in 3 months. Mastery means:
   - Explain the concept in simple terms.
   - Finding three practical uses for it.
-- Completing project X using the specified set of skills in 3 months.
+- Complete project X using the specified set of skills in 3 months.
 
 Now, let's establish daily actions. What are the most optimal ways to reach these goals? (Spoiler: for most learning goals, it's about spending a specific amount of time in full focus)
 
